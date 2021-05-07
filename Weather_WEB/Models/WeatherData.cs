@@ -31,11 +31,11 @@ namespace Weather_WEB.Models
             public int humidity { get; set; }
         }
 
-        public class Wind
+        /*public class Wind
         {
             public double speed { get; set; }
             public int deg { get; set; }
-        }
+        }*/
 
         public class Clouds
         {
