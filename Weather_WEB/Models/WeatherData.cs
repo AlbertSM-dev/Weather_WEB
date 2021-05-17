@@ -51,7 +51,7 @@ namespace Weather_WEB.Models
             public int sunset { get; set; }
         }
 
-        public class Root
+      /* public class Root
         {
             public Coord coord { get; set; }
             public List<Weather> weather { get; set; }
@@ -67,6 +67,6 @@ namespace Weather_WEB.Models
             public string name { get; set; }
             public int cod { get; set; }
         }
-
+      */
     }
 }
